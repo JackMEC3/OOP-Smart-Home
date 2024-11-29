@@ -14,6 +14,7 @@
 		F45F194F2CFA27F300AE899E /* OOP_Smart_HomeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45F194E2CFA27F300AE899E /* OOP_Smart_HomeTests.swift */; };
 		F45F19592CFA27F300AE899E /* OOP_Smart_HomeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45F19582CFA27F300AE899E /* OOP_Smart_HomeUITests.swift */; };
 		F45F195B2CFA27F300AE899E /* OOP_Smart_HomeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45F195A2CFA27F300AE899E /* OOP_Smart_HomeUITestsLaunchTests.swift */; };
+		F45F19682CFA280D00AE899E /* smartDevices.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45F19672CFA280D00AE899E /* smartDevices.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		F45F19542CFA27F300AE899E /* OOP Smart HomeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OOP Smart HomeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F45F19582CFA27F300AE899E /* OOP_Smart_HomeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OOP_Smart_HomeUITests.swift; sourceTree = "<group>"; };
 		F45F195A2CFA27F300AE899E /* OOP_Smart_HomeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OOP_Smart_HomeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F45F19672CFA280D00AE899E /* smartDevices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = smartDevices.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				F45F193E2CFA27F000AE899E /* ContentView.swift */,
 				F45F19402CFA27F300AE899E /* Assets.xcassets */,
 				F45F19422CFA27F300AE899E /* OOP_Smart_Home.entitlements */,
+				F45F19672CFA280D00AE899E /* smartDevices.swift */,
 				F45F19432CFA27F300AE899E /* Preview Content */,
 			);
 			path = "OOP Smart Home";
@@ -261,6 +264,7 @@
 			files = (
 				F45F193F2CFA27F000AE899E /* ContentView.swift in Sources */,
 				F45F193D2CFA27F000AE899E /* OOP_Smart_HomeApp.swift in Sources */,
+				F45F19682CFA280D00AE899E /* smartDevices.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
